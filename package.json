@@ -1,0 +1,18 @@
+{
+  "name": "pongjs",
+  "version": "1.0.0",
+  "description": "Pong in JS",
+  "main": "pong.js",
+  "scripts": {
+    "serve": "live-server public/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Jason Lam",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
